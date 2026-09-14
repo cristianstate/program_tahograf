@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#D84315</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#FFDBD1</color>
+    <color name="onPrimaryContainer">#3B0900</color>
+
+    <color name="secondary">#77574E</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#FFDBD1</color>
+    <color name="onSecondaryContainer">#2C150F</color>
+
+    <color name="background">#FFFFFBFF</color>
+    <color name="onBackground">#201A19</color>
+    <color name="surface">#FFFFFBFF</color>
+    <color name="onSurface">#201A19</color>
+
+    <color name="error">#BA1A1A</color>
+    <color name="onError">#FFFFFF</color>
+
+    <!-- Dark colors -->
+    <color name="primary_dark">#FFFFB5A0</color>
+    <color name="onPrimary_dark">#5F1500</color>
+    <color name="primaryContainer_dark">#8B2900</color>
+    <color name="onPrimaryContainer_dark">#FFDBD1</color>
+
+    <color name="secondary_dark">#E7BDB2</color>
+    <color name="onSecondary_dark">#442A22</color>
+    <color name="secondaryContainer_dark">#5D4037</color>
+    <color name="onSecondaryContainer_dark">#FFDBD1</color>
+
+    <color name="background_dark">#201A19</color>
+    <color name="onBackground_dark">#EDE0DD</color>
+    <color name="surface_dark">#201A19</color>
+    <color name="onSurface_dark">#EDE0DD</color>
+</resources>

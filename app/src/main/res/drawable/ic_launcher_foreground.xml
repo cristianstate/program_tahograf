@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Truck Body with Window and Log Lines cutouts -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M24,38h38v10h18l6,8v12H24V38z M66,51h10l4,6v5H66V51z M30,44h26v3H30V44z M30,50h26v3H30V50z M30,56h26v3H30V56z" />
+    <!-- Wheels -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,70m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0 M54,70m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0 M76,70m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+</vector>

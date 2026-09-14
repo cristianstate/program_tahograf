@@ -1,0 +1,29 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.TruckerLog" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/onSecondary</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondaryContainer</item>
+
+
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="android:navigationBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightNavigationBar">true</item>
+
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>

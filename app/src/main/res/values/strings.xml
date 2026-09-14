@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Program Tahograf</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">Istoric</string>
+    <string name="nav_edit">Editare</string>
+
+    <!-- Dashboard -->
+    <string name="title_dashboard">Înregistrare Activitate</string>
+    <string name="label_date">Data</string>
+    <string name="label_start_time">Ora de Început</string>
+    <string name="label_end_time">Ora de Sfârșit</string>
+    <string name="label_driving_time">Timp de Condus (ore)</string>
+    <string name="label_rest_duration">Durata Pauzei</string>
+    <string name="label_kilometers">Kilometri Parcurși</string>
+    <string name="btn_save">Salvează Jurnalul</string>
+
+    <!-- History -->
+    <string name="title_history">Istoric Activitate</string>
+    <string name="search_hint">Caută după dată (ZZ LL AAAA)</string>
+    <string name="empty_logs">Nu s-au găsit înregistrări.</string>
+
+    <!-- Edit -->
+    <string name="title_edit">Editare Jurnal</string>
+    <string name="btn_update">Actualizează Jurnalul</string>
+    <string name="btn_delete">Șterge</string>
+
+    <!-- Alerts & Validation -->
+    <string name="error_invalid_time">Ora de sfârșit trebuie să fie după ora de început.</string>
+    <string name="error_empty_fields">Vă rugăm să completați toate câmpurile.</string>
+    <string name="confirm_delete">Sunteți sigur că doriți să ștergeți această înregistrare?</string>
+    <string name="log_saved_success">Jurnal salvat cu succes!</string>
+    <string name="log_updated_success">Jurnal actualizat cu succes!</string>
+    <string name="log_deleted_success">Jurnal șters cu succes!</string>
+    <string name="label_9h">9h</string>
+    <string name="label_11h">11h</string>
+    <string name="label_start_prefix">Start: </string>
+    <string name="label_end_prefix">Sfârșit: </string>
+    <string name="label_driving_prefix">Condus: </string>
+    <string name="label_rest_prefix">Pauză: </string>
+</resources>

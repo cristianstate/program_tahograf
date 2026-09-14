@@ -1,0 +1,23 @@
+<resources>
+    <style name="Theme.TruckerLog" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/onPrimary_dark</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer_dark</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer_dark</item>
+
+        <item name="colorSecondary">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/onSecondary_dark</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainer_dark</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondaryContainer_dark</item>
+
+
+
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <item name="android:navigationBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>
