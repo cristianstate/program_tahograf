@@ -1,6 +1,6 @@
 # Program Tahograf - Jurnal de Activitate Șoferi Camion
 
-**Program Tahograf** este o aplicație mobilă Android dezvoltată modern cu **Kotlin** și **Jetpack Compose**, creată pentru a ajuta șoferii de camion să-și înregistreze și gestioneze ușor activitatea zilnică (timpul de condus, intervalul orar de lucru și durata perioadei de odihnă).
+**Program Tahograf** este o aplicație mobilă Android dezvoltată modern cu **Java**, **Kotlin** și **Jetpack Compose**, creată pentru a ajuta șoferii de camion să-și înregistreze și gestioneze ușor activitatea zilnică (timpul de condus, intervalul orar de lucru și durata perioadei de odihnă).
 
 ---
 
